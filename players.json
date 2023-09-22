@@ -1,0 +1,16 @@
+[
+  {
+    "nickname": "Alpha",
+    "email": "alpha@gmail.com",
+    "date_of_birth": "2000-04-04",
+    "xp": 455,
+    "player_class": "Berserk"  // Changed from 'class' to 'player_class'
+  },
+  {
+    "nickname": "Beta",
+    "email": "beta@gmail.com",
+    "date_of_birth": "2001-06-10",
+    "xp": 657,
+    "player_class": "Tank"  // Changed from 'class' to 'player_class'
+  }
+]
